@@ -3,10 +3,11 @@
   <groupId>com.recognition</groupId>
   <artifactId>cow</artifactId>
   <versioning>
-    <release>null</release>
+    <release>1.0</release>
     <versions>
       <version>null</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20190903112556</lastUpdated>
+    <lastUpdated>20190903112941</lastUpdated>
   </versioning>
 </metadata>
